@@ -1,4 +1,8 @@
+
 ## Creating VPC using Terraform and deploying via Github Action 
+
+
+
 
 ## Introduction
 
@@ -20,4 +24,17 @@ github Repository
 github Actions CI/CD
 
 ## About Project
+
+By combining Terraform and GitHub Actions, you can:
+
+**Define Infrastructure as Code**: Define your infrastructure components, such as virtual machines, databases, and networks, in a Terraform configuration file.
+
+**Automate Deployment**: Set up GitHub Actions workflows to automatically deploy your infrastructure whenever there are changes to your Terraform configuration.
+
+**Version Control**: Keep your infrastructure code version-controlled and easily collaborate with your team.
+
+**Infrastructure as Code Best Practices**: Follow best practices for infrastructure as code, including versioning, code review, and documentation.
+
+
+
 
